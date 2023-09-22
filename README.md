@@ -34,16 +34,3 @@ Here some of the experiments of final year Blockchain subject:
 5. voteRequest
 6. Make payment
 
-
-contributors -> key value pair of contributor to keep track of their address and funds they have contributed.
-
-allRequests -> All requests done by owner for tranfering money to a perticular address for a perticular reason.
-
-Functions :-
-
-getBalance
-contribute
-refund
-createRequest
-voteRequest
-Make payment
